@@ -1,0 +1,65 @@
+.block {
+    width: 800px;
+    height: 600px;
+    background-color: bisque;
+    position: relative;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+
+.img {
+    width: 150px;
+    height: 100px;
+    opacity: 1;
+    position: absolute;
+    
+}
+
+#firstImg {
+    background-color: brown;
+    margin-left: 200px;
+    margin-top: 300px;
+    position: absolute;
+}
+
+#secondImg {
+    background-color:darkgreen;
+    margin-left: 300px;
+    margin-top: 330px;
+    position: absolute;
+}
+
+#thirdImg {
+    background-color:gray;
+    margin-top: 300px;
+    margin-left: 400px;
+    position: absolute;
+    
+}
+
+.arrowNormal{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    opacity: 0.7;
+}
+
+.arrowFocus{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    opacity: 0.9;
+}
+
+
+
+#leftArrow {
+    margin-left: 265px;
+    margin-top: 350px;
+}
+
+#rightArrow {
+    margin-left: 455px;
+    margin-top: 350px;
+}
+
